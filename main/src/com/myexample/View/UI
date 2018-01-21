@@ -1,0 +1,6 @@
+package com.myexample.View;
+
+Public abstract class UI {
+
+    Public UI();
+    
