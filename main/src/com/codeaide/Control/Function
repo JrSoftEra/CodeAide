@@ -1,0 +1,8 @@
+com.codeaide.Control;
+
+public interface Function
+{ 
+   getInput(UI input);
+   processInput(UI input);
+   setInput();
+   }
