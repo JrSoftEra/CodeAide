@@ -1,6 +1,8 @@
-package com.myexample.View;
+package com.codeaide.View;
 
 Public abstract class UI {
 
     Public UI();
+
     
+}
