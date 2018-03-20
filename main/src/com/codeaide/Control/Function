@@ -1,8 +1,8 @@
-com.codeaide.Control;
+package com.codeaide.Control;
 
 public interface Function
-{ 
-   getInput(UI input);
-   processInput(UI input);
-   setInput();
-   }
+{
+  public String getInput();
+   void processInput(UI input);
+   public String setInput(String name);
+   }
